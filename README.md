@@ -1,5 +1,5 @@
 # Google Slides
 
-# $${\color{red}Under \space Construction}$$
+# `Under Construction`
 
 ### Type `GraceAllStarAcademy.github.io/ppt/` in search bar
